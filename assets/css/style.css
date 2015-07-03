@@ -1,0 +1,26 @@
+ul li{
+			display:inline;
+			list-style-type:none;
+
+		}
+		
+.container{
+	margin:0 auto;
+	width:950px;
+}
+
+/*ul{
+	margin-bottom: 50px;
+}
+*/
+#footer{
+	margin-top: 50px;
+}
+
+.pagination>li>a.current {
+
+	background-color: gray;
+}
+
+
+
